@@ -1,5 +1,7 @@
 # tesstrain
 
+* venv(requirements.txt) 사용
+
 > Training workflow for Tesseract 5 as a Makefile for dependency tracking.
 
 * [Installation](#installation)
